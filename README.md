@@ -27,6 +27,20 @@
 
          
          https://img.shields.io/badge/-Redux-414141?style=flat&logo=Redux
+         https://img.shields.io/badge/-PugJS-414141?style=flat&logo=PugJS
+         https://img.shields.io/badge/-SinonJS-414141?style=flat&logo=SinonJS
+         https://img.shields.io/badge/-Chai-414141?style=flat&logo=Chai
+         https://img.shields.io/badge/-Mocha-414141?style=flat&logo=Mocha
+         https://img.shields.io/badge/-VueJS-414141?style=flat&logo=VueJS
+         https://img.shields.io/badge/-nodemon-414141?style=flat&logo=nodemon
+         https://img.shields.io/badge/-Express-414141?style=flat&logo=Express
+         https://img.shields.io/badge/-Laravel-414141?style=flat&logo=Laravel
+         https://img.shields.io/badge/-SpringBoot-414141?style=flat&logo=SpringBoot
+         https://img.shields.io/badge/-Ajax-414141?style=flat&logo=Ajax
+         https://img.shields.io/badge/-jQuery-414141?style=flat&logo=jQuery
+         https://img.shields.io/badge/-Compose-414141?style=flat&logo=Compose 
+         https://img.shields.io/badge/-PHPUnit-414141?style=flat&logo=PHPUnit
+         https://img.shields.io/badge/-PHP-414141?style=flat&logo=PHP
          
          
 ## :robot: &nbsp;Tech Stack:
