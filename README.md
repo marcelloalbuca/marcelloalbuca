@@ -64,6 +64,11 @@
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
+        
+<a href="https://angular.io/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-Angular-414141?style=flat&logo=angular" alt="Angular"/>
+</a>&nbsp;
+         
 <a href="https://br.wordpress.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
