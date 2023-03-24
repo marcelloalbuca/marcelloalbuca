@@ -25,7 +25,7 @@
   -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvimento de sites e Ecommerces - [Way TI](https://wayti.com.br)
   -   :handbag:  &nbsp; Desenvolvedor Web: &nbsp;  Desenvolvimento de sites institucionais - [Agência Diastec](http://www.diastec.com.br/)
   
-  -   :round_pushpin: João Pessoa, Paraiba, Brasil  
+  -   :round_pushpin: Salvador, Bahia, Brasil  
 
 
 
