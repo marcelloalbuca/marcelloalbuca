@@ -98,37 +98,17 @@
 </a><br />&nbsp;
 
 > Testes:
-<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jest-414141?style=flat&logo=jest" alt="Jest"/>
-</a>&nbsp;
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RTL-414141?style=flat&logo=rtl" alt="RTL"/>
-</a>&nbsp;
+
 <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
 </a><br />&nbsp;
-
-
-> Cyber Security:
-<a href="https://docs.python.org/3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Python-414141?style=flat&logo=python" alt="Python"/>
-</a>&nbsp;
-<a href="https://www.kali.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Kali Linux-414141?style=flat&logo=kalilinux" alt="Kali Linux"/>
-</a>&nbsp;
-<a href="https://www.torproject.org/download/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Tor-414141?style=flat&logo=Tor-Browser" alt="Tor"/>
-</a><br />&nbsp;
-
 
 > Outras:
 
 <a href="https://www.postman.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Postman-414141?style=flat&logo=postman" alt="Postman"/>
 </a>
-<a href="https://insomnia.rest/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Insomnia-414141?style=flat&logo=insomnia" alt="Insomnia"/>
-</a>
+
 <a href="https://www.figma.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Figma-414141?style=flat&logo=figma" alt="Figma"/>
 </a>
@@ -138,18 +118,4 @@
 <a href="https://trello.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Trello-414141?style=flat&logo=trello" alt="Trello"/>
 </a>
-<a href="https://zoom.us/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Zoom-414141?style=flat&logo=zoom" alt="Zoom"/>
-</a>
 <br><br>
-
-         
-## ⚙️ &nbsp;GitHub Analytics
-         
- <div align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavogss&color=yellow" alt="Profile views" /> </p>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogss&show_icons=true&theme=radical" /> -->
- </div>
- 
-
-                                       
