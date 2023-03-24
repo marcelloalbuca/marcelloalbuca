@@ -89,17 +89,9 @@
 </a><br />&nbsp;
 
 > Mobile:
-<a href="https://developer.android.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Android-414141?style=flat&logo=android" alt="Android"/>
-</a>&nbsp;
-<a href="https://reactnative.dev/docs/getting-started" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ReactNative-414141?style=flat&logo=react" alt="ReactNative"/>
-</a>&nbsp;
+
 <a href="https://ionicframework.com/docs/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ionic-414141?style=flat&logo=ionic" alt="Ionic"/>
-</a>&nbsp;
-<a href="https://styled-components.com/docs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-SytedComponents-414141?style=flat&logo=styled-components" alt="StyledComponents"/>
 </a>&nbsp;
 <a href="https://firebase.google.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Firebase-414141?style=flat&logo=firebase" alt="Firebase"/>
