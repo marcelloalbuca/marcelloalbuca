@@ -25,6 +25,10 @@
 
 <br />
 
+         
+         https://img.shields.io/badge/-Redux-414141?style=flat&logo=Redux
+         
+         
 ## :robot: &nbsp;Tech Stack:
 
 > Front-end:
