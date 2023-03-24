@@ -1,7 +1,7 @@
 <h1 align="center">Olá  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, Eu sou Gustavo Souza</h1>
+         width="45" />, Eu sou Marcello Albuquerque</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavosouza-jp/" target="_blank">
