@@ -18,11 +18,9 @@
 </div>
 
  
-  -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [ASPER](https://www.asper.edu.br/)
-  -   :mortar_board:  &nbsp; Especialização:  &nbsp; Desenvolvimento Mobile e Sistemas Embarcados pela [Estácio de Sá](https://estacio.br/)
+  -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [FICR](https://ficr.catolica.edu.br/portal)
   
   -   :round_pushpin: Salvador, Bahia, Brasil  
-
 
 
 <br />
