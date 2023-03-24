@@ -18,7 +18,7 @@
 </div>
 
  
-  -   :mortar_board: &nbsp; Graduação:  &nbsp; Processamento de Dados pela [FICR](https://ficr.catolica.edu.br/portal)
+  -   :mortar_board: &nbsp; Graduação:  &nbsp; Análise e Desenvolvimento de Sistemas pela [FICR](https://ficr.catolica.edu.br/portal)
   
   -   :round_pushpin: Salvador, Bahia, Brasil  
 
