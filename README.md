@@ -145,3 +145,10 @@
   <img align="center" src="https://img.shields.io/badge/-Trello-414141?style=flat&logo=trello" alt="Trello"/>
 </a>
 <br><br>
+         
+         ## ⚙️ &nbsp;GitHub Analytics
+         
+<div align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelloalbuca&color=yellow" alt="Profile views" /> </p>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelloalbuca&show_icons=true&theme=radical" /> -->
+ </div>
