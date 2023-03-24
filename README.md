@@ -69,6 +69,11 @@
 <img align="center" src="https://img.shields.io/badge/-Angular-414141?style=flat&logo=angular" alt="Angular"/>
 </a>&nbsp;
          
+<a href="https://angularjs.org" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-Angularjs-414141?style=flat&logo=angularjs" alt="AngularJS"/>
+</a>&nbsp;
+         
+         
 <a href="https://br.wordpress.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
