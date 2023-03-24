@@ -67,9 +67,7 @@
 <a href="https://br.wordpress.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
-<a href="https://marketplace.magento.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Magento2-414141?style=flat&logo=magento" alt="Magento2"/>
-</a> <br />&nbsp;
+
 > Back-end:
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
