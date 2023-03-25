@@ -146,7 +146,8 @@
 </a>
 <br><br>
          
-         ## ⚙️ &nbsp;GitHub Analytics
+ 
+## ⚙️ &nbsp;GitHub Analytics
          
 <div align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelloalbuca&color=yellow" alt="Profile views" /> </p>
