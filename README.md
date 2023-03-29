@@ -24,24 +24,6 @@
 
 
 <br />
-
-         
-         https://img.shields.io/badge/-Redux-414141?style=flat&logo=Redux
-         https://img.shields.io/badge/-PugJS-414141?style=flat&logo=PugJS
-         https://img.shields.io/badge/-SinonJS-414141?style=flat&logo=SinonJS
-         https://img.shields.io/badge/-Chai-414141?style=flat&logo=Chai
-         https://img.shields.io/badge/-Mocha-414141?style=flat&logo=Mocha
-         https://img.shields.io/badge/-VueJS-414141?style=flat&logo=VueJS
-         https://img.shields.io/badge/-nodemon-414141?style=flat&logo=nodemon
-         https://img.shields.io/badge/-Express-414141?style=flat&logo=Express
-         https://img.shields.io/badge/-Laravel-414141?style=flat&logo=Laravel
-         https://img.shields.io/badge/-SpringBoot-414141?style=flat&logo=SpringBoot
-         https://img.shields.io/badge/-Ajax-414141?style=flat&logo=Ajax
-         https://img.shields.io/badge/-jQuery-414141?style=flat&logo=jQuery
-         https://img.shields.io/badge/-Compose-414141?style=flat&logo=Compose 
-         https://img.shields.io/badge/-PHPUnit-414141?style=flat&logo=PHPUnit
-         https://img.shields.io/badge/-PHP-414141?style=flat&logo=PHP
-         
          
 ## :robot: &nbsp;Tech Stack:
 
@@ -84,7 +66,6 @@
 <a href="https://pugjs.org/api/getting-started.html" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-PugJS-414141?style=flat&logo=PugJS" alt="PugJS"/>
  </a>&nbsp;
-         
         
 <a href="https://angular.io/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Angular-414141?style=flat&logo=angular" alt="Angular"/>
@@ -95,24 +76,35 @@
 </a>&nbsp;
          
  <a href="https://vuejs.org/" target="_blank">
-<img align="center" src=" https://img.shields.io/badge/-VueJS-414141?style=flat&logo=VueJS" alt="VueJS"/>
+<img align="center" src="https://img.shields.io/badge/-VueJS-414141?style=flat&logo=VueJS" alt="VueJS"/>
 </a>&nbsp;
-         
-         
+            
 <a href="https://br.wordpress.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Wordpress-414141?style=flat&logo=wordpress" alt="Wordpress"/>
 </a>&nbsp;
+         
+<a href="https://jquery.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jQuery-414141?style=flat&logo=jQuery" alt="jQuery"/>
+</a>&nbsp;
+         
+<a href="https://api.jquery.com/jquery.ajax/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Ajax-414141?style=flat&logo=Ajax" alt="Ajax"/>
+</a>&nbsp;
+         
 
 > Back-end:
 <a href="https://www.mysql.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-MySQL-414141?style=flat&logo=mysql" alt="MySQL"/>
 </a>&nbsp;
+         
 <a href="https://www.postgresql.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Postgresql-414141?style=flat&logo=postgresql" alt="Postgresql"/>
 </a>&nbsp;
+         
 <a href="https://nodejs.org/en/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-NodeJs-414141?style=flat&logo=node.js" alt="Node"/>
 </a>&nbsp;  
+         
 <a href="https://sequelize.org/docs/v6/getting-started/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Sequelize-414141?style=flat&logo=sequelize" alt="Sequelize"/>
 </a>&nbsp;
@@ -120,38 +112,35 @@
 <a href="https://cloud.mongodb.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Mongo-414141?style=flat&logo=mongodb" alt="mongodb"/>
 </a>&nbsp;
+         
 <a href="https://docs.docker.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Docker-414141?style=flat&logo=docker" alt="Docker"/>
 </a>&nbsp;
+         
 <a href="https://heroku.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
-</a><br />&nbsp;
+</a>&nbsp;
          
  <a href="https://nodemon.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-nodemon-414141?style=flat&logo=nodemon" alt="Nodemon"/>
-</a><br />&nbsp;
+</a>>&nbsp;
          
 <a href="https://expressjs.com/pt-br/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Express-414141?style=flat&logo=Express" alt="Express"/>
-</a><br />&nbsp;
+</a>&nbsp;
          
 <a href="https://laravel.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Laravel-414141?style=flat&logo=Laravel" alt="Laravel"/>
-</a><br />&nbsp;
+</a>&nbsp;
          
 <a href="https://spring.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SpringBoot-414141?style=flat&logo=SpringBoot" alt="SpringBoot"/>
+</a>&nbsp;
+         
+<a href="https://www.php.net/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-PHP-414141?style=flat&logo=PHP" alt="PHP"/>
 </a><br />&nbsp;
-         
-         
-         
-         
-         
-
-        
-        
-         
-
+                
 > Mobile:
 
 <a href="https://ionicframework.com/docs/" target="_blank">
@@ -165,24 +154,24 @@
 
 <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
-</a><br />&nbsp;
+</a>&nbsp;
          
 <a href="https://pugjs.org/api/getting-started.html" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SinonJS-414141?style=flat&logo=SinonJS" alt="SimonJS"/>
-</a><br />&nbsp;
+</a>&nbsp;
          
 <a href="https://www.chaijs.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Chai-414141?style=flat&logo=Chai" alt="Chai"/>
-</a><br />&nbsp;
+</a>&nbsp;
          
 <a href="https://mochajs.org/" target="_blank">
-  <img align="center" src=" https://img.shields.io/badge/-Mocha-414141?style=flat&logo=Mocha" alt="Mocha"/>
+  <img align="center" src="https://img.shields.io/badge/-Mocha-414141?style=flat&logo=Mocha" alt="Mocha"/>
+</a>&nbsp;
+         
+<a href="https://phpunit.de/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-PHPUnit-414141?style=flat&logo=PHPUnit" alt="PHPUnit"/>
 </a><br />&nbsp;
          
-         
-         
-         
-
 > Outras:
 
 <a href="https://www.postman.com/" target="_blank">
@@ -198,6 +187,12 @@
 <a href="https://trello.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Trello-414141?style=flat&logo=trello" alt="Trello"/>
 </a>
+         
+<a href="https://getcomposer.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Compose-414141?style=flat&logo=Compose" alt="Compose"/>
+</a>
+         
+         
 <br><br>
          
  
