@@ -76,6 +76,15 @@
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-React-414141?style=flat&logo=react" alt="React"/>
 </a>&nbsp;
+         
+ <a href="https://redux.js.org/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Redux-414141?style=flat&logo=Redux" alt="Redux"/>
+ </a>&nbsp;
+         
+<a href="https://pugjs.org/api/getting-started.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-PugJS-414141?style=flat&logo=PugJS" alt="PugJS"/>
+ </a>&nbsp;
+         
         
 <a href="https://angular.io/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Angular-414141?style=flat&logo=angular" alt="Angular"/>
@@ -83,6 +92,10 @@
          
 <a href="https://angularjs.org" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Angularjs-414141?style=flat&logo=angularjs" alt="AngularJS"/>
+</a>&nbsp;
+         
+ <a href="https://vuejs.org/" target="_blank">
+<img align="center" src=" https://img.shields.io/badge/-VueJS-414141?style=flat&logo=VueJS" alt="VueJS"/>
 </a>&nbsp;
          
          
@@ -113,6 +126,31 @@
 <a href="https://heroku.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Heroku-414141?style=flat&logo=heroku" alt="Heroku"/>
 </a><br />&nbsp;
+         
+ <a href="https://nodemon.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-nodemon-414141?style=flat&logo=nodemon" alt="Nodemon"/>
+</a><br />&nbsp;
+         
+<a href="https://expressjs.com/pt-br/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Express-414141?style=flat&logo=Express" alt="Express"/>
+</a><br />&nbsp;
+         
+<a href="https://laravel.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Laravel-414141?style=flat&logo=Laravel" alt="Laravel"/>
+</a><br />&nbsp;
+         
+<a href="https://spring.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SpringBoot-414141?style=flat&logo=SpringBoot" alt="SpringBoot"/>
+</a><br />&nbsp;
+         
+         
+         
+         
+         
+
+        
+        
+         
 
 > Mobile:
 
@@ -128,6 +166,22 @@
 <a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Cypress-414141?style=flat&logo=cypress" alt="Cypress"/>
 </a><br />&nbsp;
+         
+<a href="https://pugjs.org/api/getting-started.html" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-SinonJS-414141?style=flat&logo=SinonJS" alt="SimonJS"/>
+</a><br />&nbsp;
+         
+<a href="https://www.chaijs.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Chai-414141?style=flat&logo=Chai" alt="Chai"/>
+</a><br />&nbsp;
+         
+<a href="https://mochajs.org/" target="_blank">
+  <img align="center" src=" https://img.shields.io/badge/-Mocha-414141?style=flat&logo=Mocha" alt="Mocha"/>
+</a><br />&nbsp;
+         
+         
+         
+         
 
 > Outras:
 
