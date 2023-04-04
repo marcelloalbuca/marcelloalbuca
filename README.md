@@ -14,7 +14,7 @@
     
  >   Sobre mim: 
   
-  <p>Iniciei no mundo da tecnologia como um hobbie na minha adolecência, fazendo pequenos projetos e consertando computadores para amigos e vizinhos. Em 1996 entrei na Faculdade na área de TI e a partir de então, passei por diversos setores: Infra, Desenvolvimento de Aplicações Desktop, Web e Mobile. Hoje procuro implementar aplicações utlizando as boas práticas, clean code e TDD. Meu grande objetivo é desenvolver soluções seguras e escaláveis que possam impactar a vida das pessoas. :green_heart:</p>
+  <p>Iniciei no mundo da tecnologia por incentivo do meu pai, sempre me instruindo a fazer cursos da área de TI, comecei com lógica de programação, HTML, CSS, MySQL e PHP na minha adolecência, fazendo pequenos projetos e estagiando como suporte ao cliente em uma empresa de hospedagem de sites. Entrei na Faculdade na área de TI e a partir de então, sempre trabalhei no Desenvolvimento de Aplicações Web e Mobile. Hoje procuro implementar aplicações utlizando as boas práticas, clean code e TDD. Meu grande objetivo é desenvolver soluções seguras e escaláveis que possam impactar a vida das pessoas. :green_heart:</p>
 </div>
 
  
