@@ -19,6 +19,9 @@
 
  
   -   :mortar_board: &nbsp; Graduação:  &nbsp; Análise e Desenvolvimento de Sistemas pela [FICR](https://ficr.catolica.edu.br/portal)
+  -   :mortar_board: &nbsp; Pós Graduando:  &nbsp; Engenharia de Software [USP](https://ficr.catolica.edu.br/portal](https://www5.usp.br/)
+
+https://www5.usp.br/
   
   -   :round_pushpin: Salvador, Bahia, Brasil  
 
