@@ -14,7 +14,15 @@
     
  >   Sobre mim: 
   
-  <p>Iniciei no mundo da tecnologia por incentivo do meu pai, sempre me instruindo a fazer cursos da área de TI, comecei com lógica de programação, HTML, CSS, MySQL e PHP na minha adolecência, fazendo pequenos projetos e estagiando como suporte ao cliente em uma empresa de hospedagem de sites. Entrei na Faculdade na área de TI e a partir de então, sempre trabalhei no Desenvolvimento de Aplicações Web e Mobile. Hoje procuro implementar aplicações utlizando as boas práticas, clean code e TDD. Meu grande objetivo é desenvolver soluções seguras e escaláveis que possam impactar a vida das pessoas. :green_heart:</p>
+  <p>Sou Engenheiro de Software com sólida experiência em desenvolvimento de sistemas corporativos, atuando há mais de uma década na área de tecnologia, com foco em aplicações web, integração de sistemas e arquitetura de soluções.
+
+Minha trajetória começou ainda na adolescência, com lógica de programação, HTML, CSS, MySQL e PHP, o que me proporcionou uma base sólida em desenvolvimento web. Ao longo da carreira, evoluí para atuar em ambientes corporativos, desenvolvendo e mantendo sistemas críticos utilizando Java, Spring Boot, Angular e bancos de dados relacionais, sempre com foco em qualidade, escalabilidade e boas práticas de engenharia de software.
+
+Atualmente, atuo com desenvolvimento Full Stack, integração de sistemas e APIs REST, participando ativamente da evolução de soluções, modernização de sistemas legados e apoio a decisões técnicas. Tenho experiência em trabalhar em times multidisciplinares, contribuindo tanto na implementação quanto na análise de requisitos e melhoria contínua de processos e sistemas.
+
+Sou orientado a boas práticas como Clean Code, SOLID e TDD, e acredito que qualidade de código, organização e entendimento do negócio são fundamentais para entregar soluções que realmente gerem valor. Como parte do meu desenvolvimento contínuo, curso pós-graduação em Engenharia de Software pela USP, buscando aprofundar meus conhecimentos em arquitetura, engenharia de requisitos e qualidade de software.
+
+Busco constantemente novos desafios que me permitam crescer tecnicamente, contribuir com times de alto desempenho e participar da construção de soluções robustas, escaláveis e alinhadas às necessidades do negócio. :green_heart:</p>
 </div>
 
  
